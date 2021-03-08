@@ -33,5 +33,5 @@ jobs:
       with:
         app-name: 'webappq9'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_f7b0c874f2b643468b5ce2570355bdd4 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_672bcc515ad542bb8e282453091b5d83 }}
         package: \published\
